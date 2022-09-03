@@ -1,0 +1,46 @@
+@import url(../icon/icon.css);
+@import url(../utilities/utilities.css);
+@import url(../base/tooltip.css);
+@font-face {
+    font-family: MISA Fonts Regular;
+    src: url(../../assets/fonts/notosans-regular.2cb88a13.woff2);
+}
+
+@font-face {
+    font-family: MISA Fonts Bold;
+    src: url(../../assets/fonts/notosans-bold.3ede5aff.woff2);
+}
+
+@font-face {
+    font-family: MISA Fonts Italic;
+    src: url(../../assets/fonts/notosans-italic.1c1aaac9.woff2);
+}
+
+body {
+    font-family: Tahoma !important;
+    font-style: normal;
+    font-size: 13px;
+    color: #000;
+    background: #fff;
+    font-weight: 400;
+}
+
+:root {
+    --width_navbar: 230px;
+    --height_header: 55px;
+    --height_header_page: 50px;
+}
+
+
+/* ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #b8bcc3;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+} */

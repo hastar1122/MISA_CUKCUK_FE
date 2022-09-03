@@ -1,0 +1,278 @@
+.mi {
+    background: url(../../assets/img/iconMenu.png) no-repeat;
+}
+
+.mi-24 {
+    width: 24px;
+    height: 24px;
+    min-width: 24px;
+    min-height: 24px;
+}
+
+.icon-left-header {
+    cursor: pointer;
+    margin-left: 12px;
+    width: 24px;
+    margin-top: 4px;
+    height: 24px;
+    background-image: url(../../assets/img/icon-left-header.png);
+}
+
+.mi-menu {
+    width: 24px;
+    height: 24px;
+    background-position: 0 1px;
+    background-image: url(../../assets/img/vector-smart-object.png);
+    background-repeat: no-repeat;
+}
+
+.mi-promotion {
+    background-position: -4px -117px;
+}
+
+.me-warehouse {
+    background-position: -4px -40px;
+}
+
+.mi-category {
+    background-position: -3px -155px;
+}
+
+.mi-setting {
+    background-position: -3px -234px;
+    ;
+}
+
+.icon-filter-branch {
+    height: 100%;
+    width: 100%;
+    background-image: url(../../assets/img/filter_1.png)!important;
+    background-repeat: no-repeat;
+    margin-left: 2px;
+    margin-top: 4px;
+    display: inline-block;
+}
+
+.icon-avatar {
+    background-image: url(../../assets/img/EmployeeImage.png);
+    background-size: cover;
+    background-position: center;
+    width: 28px!important;
+    height: 28px!important;
+    border-radius: 14px;
+    background-color: #fff;
+}
+
+.icon-caret {
+    width: 22px;
+    height: 32px;
+    background-image: url(../../assets/img/trigger.png)!important;
+    background-position: 0 center;
+}
+
+.icon-feedback {
+    width: 16px;
+    height: 16px;
+    background-image: url(../../assets/img/viewEmail.png);
+    display: inline-block;
+}
+
+.icon-new-item {
+    background-image: url(../../assets/img/IconSprite.png)!important;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    height: 16px;
+    width: 16px;
+    background-position: 0-2648px!important;
+}
+
+.icon-replication {
+    background-image: url(../../assets/img/IconSprite.png)!important;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    height: 16px;
+    width: 16px;
+    background-position: 0-1888px!important
+}
+
+.icon-update {
+    background-image: url(../../assets/img/Edit16.png)!important;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+    display: inline-block;
+}
+
+.icon-delete {
+    background-image: url(../../assets/img/IconSprite.png)!important;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    height: 16px;
+    min-width: 16px;
+    background-position: 0-2680px!important
+}
+
+.icon-reload {
+    background-image: url(../../assets/img/IconSprite.png)!important;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    height: 16px;
+    width: 16px;
+    background-position: 0-2584px!important
+}
+
+.icon-import {
+    background-image: url(../../assets/img/Import16.png)!important;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+    display: inline-block;
+}
+
+.icon-export {
+    background-image: url(../../assets/img/excel_97_24.png)!important;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+    display: inline-block;
+}
+
+.icon-error {
+    min-width: 16px;
+    height: 16px;
+    margin: 0 5px 0 5px;
+    background: url(../../assets/img/exclamation.png) no-repeat;
+}
+
+.icon-page-first {
+    height: 16px;
+    width: 16px;
+    background-image: url(../../assets/img/page-first.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.icon-page-prev {
+    height: 16px;
+    width: 16px;
+    background-image: url(../../assets/img/page-prev.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.icon-page-next {
+    height: 16px;
+    width: 16px;
+    background-image: url(../../assets/img/page-next.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.icon-page-last {
+    height: 16px;
+    width: 16px;
+    background-image: url(../../assets/img/page-last.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.icon-page-reload {
+    height: 16px;
+    width: 16px;
+    background-image: url(../../assets/img/refresh.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.icon-checked {
+    width: 15px;
+    height: 15px;
+    background: url(../../assets/img/checkbox.png) 0 0 no-repeat;
+    background-position: 0 -15px;
+}
+
+.icon-unchecked {
+    width: 15px;
+    height: 15px;
+    background: url(../../assets/img/checkbox.png) 0 0 no-repeat;
+}
+
+.icon-selected {
+    width: 16px;
+    height: 16px;
+    background: url(../../assets/img/table-circle-blue16.png) no-repeat left center;
+}
+
+.icon-add {
+    background-image: url(../../assets/img/add-blue-icon.png)!important;
+    background-position: center center!important;
+    background-repeat: no-repeat;
+    height: 22px;
+    min-width: 22px;
+}
+
+.icon-help {
+    background-image: url(../../assets/img/IconSprite.png)!important;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+    background-position: 0-1600px!important;
+}
+
+.icon-save {
+    background-image: url(../../assets/img/Save16.png)!important;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+}
+
+.icon-save-add {
+    background-image: url(../../assets/img/SaveAdd16.png)!important;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+}
+
+.icon-cancel {
+    background-image: url(../../assets/img/Disable16.png)!important;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    height: 16px;
+    width: 16px;
+}
+
+.icon-pen {
+    background: url(../../assets/img/selectIconMenu.png) no-repeat 3px center;
+    height: 16px;
+    width: 16px;
+}
+
+.icon-info-2 {
+    background: url(../../assets/img/icon-info32-2.png) no-repeat 10px center;
+    padding-left: 50px;
+}
+
+.icon-warning {
+    background-image: url(../../assets/img/icon-warning.png);
+    height: 32px;
+    width: 32px;
+    background-position: left top;
+    background-repeat: no-repeat;
+}
+
+.icon-question {
+    background-image: url(../../assets/img/icon-question.png);
+    height: 32px;
+    width: 32px;
+    background-position: left top;
+    background-repeat: no-repeat;
+}
